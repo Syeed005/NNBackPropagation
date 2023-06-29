@@ -1,6 +1,11 @@
 # NNBackPropagation
 Python code to train and adjust the weight on a multilayer perceptron having two input nodes, two hidden nodes, and two output nodes. At first, the input weights were fixed, then they were generated randomly. Both sigmoid or ReLU activation functions can be used as arguments. No. of iterations are calculated based on these error values [0.01, 0.001, 0.0001, 0.00001, 0.000001]
 
+![image](https://github.com/Syeed005/NNBackPropagation/assets/124804545/2ab87d29-4f71-49ae-8cb2-14613446cb0d)
+
+
+
+
 # How to Run
 - We need to pass arguments for different options with this function "RunProgram("relu","givenBias","givenWeight")"
 - use keyword "sigmoid" or "relu "for difernt activation funtion
